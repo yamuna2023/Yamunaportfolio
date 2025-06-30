@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/yamuna2023/React_Todo_Application.git"
+                href="https://github.com/yamuna2023"
                 target="_blank"
                 className="fork-btn-inner"
               >

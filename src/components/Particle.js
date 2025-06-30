@@ -4,7 +4,7 @@ import Particles from "react-tsparticles";
 function Particle() {
   return (
     <Particles
-      id="tsparticles"
+      id="tsparticle"
       params={{
         particles: {
           number: {

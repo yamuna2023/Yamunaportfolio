@@ -52,7 +52,7 @@ It includes interactive sections such as About Me, Projects, Skills, and Contact
 React Router is used for smooth navigation between pages without reloading.
 Styled with Tailwind CSS to ensure responsive and visually appealing design.
 The portfolio is fully dynamic and easy to maintain or scale as needed. "
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/yamuna2023/Yamunaportfolio.git"
             />
           </Col>
 
@@ -68,7 +68,7 @@ The portfolio is fully dynamic and easy to maintain or scale as needed. "
 It features product listings, cart functionality, and secure checkout using reusable components.
 Integrated with React Router and state management (like Redux or Context API) for seamless navigation and performance..
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/yamuna2023/Ecommerce.git"
             />
           </Col>
         </Row>
